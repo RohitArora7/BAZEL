@@ -1,12 +1,15 @@
 # BAZEL
 
 
-
+```bash
 mkdir test
-
+```
+```bash
 touch WORKSPACE
-
+```
+```bash
 mkdir mydir
+```
 
 cd mydir 
 ```bash
