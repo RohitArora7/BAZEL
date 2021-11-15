@@ -27,7 +27,7 @@ int main()
 }
 	
 
-TO build 
+To build 
 bazel build ...  //Current Directory 
 bazel build //mydir:myname //Prev Directory 
 	
