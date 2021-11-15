@@ -25,11 +25,12 @@ int main()
 	std:: cout <<"Mytext"<< std::endl;
 
 }
-
+	
 
 TO build 
 bazel build ...  //Current Directory 
 bazel build //mydir:myname //Prev Directory 
-
+	
+	
 To Run 
 ./bazel-bin/mydir/myname
