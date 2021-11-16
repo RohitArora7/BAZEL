@@ -13,6 +13,7 @@ mkdir mydir
 ```bash
 cd mydir 
 ```
+Create a BUILD file
 ```bash
 touch BUILD
 cc_binary
@@ -21,6 +22,7 @@ name="myname",
 srcs=["myfile.cc"],
 )
 ```
+Create a cpp file
 ```bash
 touch myfile.cc
 #include<iostream>
