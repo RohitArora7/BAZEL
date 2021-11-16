@@ -10,8 +10,9 @@ touch WORKSPACE
 ```bash
 mkdir mydir
 ```
-
+```bash
 cd mydir 
+```
 ```bash
 touch BUILD
 cc_binary
